@@ -31,7 +31,7 @@ const app = express()
 
 const webDeveloper = {name:"Rodrigo", stack:"Full-Stack-Developer"}
    code: [Javascript, Typescript, HTML, CSS, Python],
-   tools: [React, Node, Docker, MongoDb]
+   tools: [React, Node, MongoDb]
    
 app.get('/', (req, res) =>{
   return res.send(webDeveloper)
