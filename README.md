@@ -22,7 +22,7 @@
 
 
  <a href="https://github.com/rodrigobarroshd">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobarroshd&theme=dracula&hide_langs_below=1" />
 </a> 
 
 ```javascript
