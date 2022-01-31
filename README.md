@@ -3,9 +3,9 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - 🔭 I just created my Youtube Channel in portuguese: "Rodrigo Barros"</p>
-- 🌱 I’m currently learning everything 🤣</p>
-- 👯 I’m looking to collaborate with other content creators!</p>
-- 🥅 2022 Goals: Contribute so that more people learn programming!.</p>
+- 🌱 I’m currently learning React and JavaScript 🤣</p>
+- 👯 If I am not coding then I am playing Piano!</p>
+- 🥅 2022 Goals: Enter the front end programming area!.</p>
  
 
 <div style="display: inline_block"><br>
