@@ -8,8 +8,8 @@ const express = require('express')
 const app = express()
 
 const Developer = {name:"Rodrigo", stack:"Mobile-Developer"}
-   code: [Python],
-   tools: [React Native, Django, MongoDb]
+   code: [Kotlin, JavaScript],
+   tools: [React Native, Android Studio, MongoDb]
    
 app.get('/', (req, res) =>{
   return res.send(Developer)
