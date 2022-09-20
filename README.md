@@ -23,8 +23,7 @@ app.listen(3000, () =>{
 
 ![Snake animation](https://github.com/rodrigobarroshd/rodrigobarroshd/blob/output/github-contribution-grid-snake.svg)
 
-## **Linguagens e Ferramentas:**  
-
+<h2  align="left">📫 Linguagens e Ferramentas</h2> 
 <div style="display: inline_block"><br>
  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
