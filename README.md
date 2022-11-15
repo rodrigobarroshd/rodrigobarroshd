@@ -9,7 +9,7 @@ const app = express()
 
 const Developer = {name:"Rodrigo", stack:"Mobile-Developer"}
    code: [Kotlin, JavaScript],
-   tools: [React Native, Android Studio, MongoDb]
+   tools: [ReactJs, React Native, Android Studio, MongoDb]
    
 app.get('/', (req, res) =>{
   return res.send(Developer)
