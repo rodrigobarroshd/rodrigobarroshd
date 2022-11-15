@@ -8,7 +8,7 @@ const express = require('express')
 const app = express()
 
 const Developer = {name:"Rodrigo", stack:"Mobile-Developer"}
-   code: [Kotlin, JavaScript],
+   code: [JavaScript, NodeJs],
    tools: [ReactJs, React Native, Android Studio, MongoDb]
    
 app.get('/', (req, res) =>{
