@@ -21,7 +21,6 @@ app.listen(3000, () =>{
 
 ```
 
-![Snake animation](https://github.com/rodrigobarroshd/rodrigobarroshd/blob/output/github-contribution-grid-snake.svg)
 
 <h2  align="left">📫 Linguagens e Ferramentas</h2> 
 <div style="display: inline_block"><br>
