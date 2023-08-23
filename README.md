@@ -3,21 +3,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobarroshd&theme=dracula&hide_langs_below=1" />
 </a>  -->
 
-```javascript
-const express = require('express')
-const app = express()
 
-const Developer = {name:"Rodrigo", stack:"Mobile-Developer"}
-   code: [JavaScript, NodeJs],
-   tools: [ReactJs, React Native, Android Studio, MongoDb]
-   
-app.get('/', (req, res) =>{
-  return res.send(Developer)
-}),
-
-app.listen(3000, () =>{
-  console.log("Initing code...")
-})
 
 ```
 
