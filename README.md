@@ -1,13 +1,12 @@
 
 ### Hi there 👋, my name is Rodrigo Barros
-#### Android Developer
+#### Mobile Developer
 
 Analytical and detail oriented Android app developer professional with stellar communication skills. Conceptualizing app solutions with the latest technology, design theory, and a large dose of creativity. 
 
 - 🌱 I’m currently learning Kotlin 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Android Developent 
-- 📫 How to reach me: knock me in linkdin
+- 📫 How to reach me: knock me in linkedin
 
 
 <div style="display: inline_block"><br>
