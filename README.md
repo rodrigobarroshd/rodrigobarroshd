@@ -19,4 +19,5 @@ Analytical and detail oriented Android app developer professional with stellar c
   <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Rafa-Csharp2" height="40" width="50" src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg">
+  
 </div>
