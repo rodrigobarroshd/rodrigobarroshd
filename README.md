@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Rodrigo Barros
-#### Mobile Developer
+#### FullStack Developer
 
 Analytical and detail oriented Android app developer professional with stellar communication skills. Conceptualizing app solutions with the latest technology, design theory, and a large dose of creativity... 
 
